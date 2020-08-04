@@ -1,8 +1,4 @@
-### Hello 👋
-I'm frontend engineer JHYOON (at future)
-And also I interested in Arduino
+## Hello! 👋
+I'm frontend engineer
 
-### Stack
-HTML, CSS, JavaScript, React, Mobx, C++ ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHYOOOOON)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JHYOOOOON&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
