@@ -23,18 +23,12 @@
 
 ### <strong>🔥 강의 수강한 프로젝트(최신순)</strong>
 
-- [TypeChain](https://github.com/JHYOOOOON/Typechain)
-  - Typescript
-  - 타입스크립트 공부용
 - [Job Scraper](https://github.com/JHYOOOOON/Job-Scraper)
   - Python / Flask
   - 스택오버플로우 웹 크롤링 / 구인구직 홈페이지
 - [Wetube](https://github.com/JHYOOOOON/Wetube)
   - VanilaJS / NodeJS
   - 유투브 클론
-- [ToDoList](https://github.com/JHYOOOOON/toDoListJS)
-  - VanilaJS
-  - 투두리스트(입력/수정/삭제)
     <br/><br/>
 
 ### <strong>🔥 기타</strong>
