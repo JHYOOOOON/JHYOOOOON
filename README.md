@@ -1,4 +1,4 @@
-#### JHYOOOON's GITHUB👋
+### JHYOOOON's GITHUB👋
 
 - 🌱 I'm currently learing <code>React</code>, <code>Typescript</code>, <code>Algorithm</code> ...
 - 📫 How to reach me: jhyooooooon@gmail.com
