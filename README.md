@@ -1,11 +1,11 @@
-### JHYOOOON's GITHUB👋
+#### JHYOOOON's GITHUB👋
 
-- 🌱 I'm currently learing React, typescript, Algorithm ...
+- 🌱 I'm currently learing <code>React</code>, <code>Typescript</code>, <code>Algorithm</code> ...
 - 📫 How to reach me: jhyooooooon@gmail.com
 - [![Blog](https://img.shields.io/static/v1?label=&logo=Blogger&logoColor=white&message=Blog&color=Green)](https://blog.naver.com/chon_5)
   <br/><br/>
 
-### Project🔥
+#### Project🔥
 
 - 🎲 [MATCH!](https://github.com/JHYOOOOON/MATCH)
 - ✨ [OTT MovieOn](https://github.com/kwonhyoju/OTT/tree/dev)
