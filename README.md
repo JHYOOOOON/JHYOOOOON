@@ -12,8 +12,10 @@
 - 📺 [오늘의 뉴스](https://github.com/JHYOOOOON/TodayNews)
 - 📚 [책 검색 페이지](https://github.com/JHYOOOOON/searchBook)
 - 🎥 [일일 박스오피스](https://github.com/JHYOOOOON/dailyBoxOffice)
-<br/>
+  <br/>
+
+<div display="flex">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JHYOOOOON)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chon_5)](https://solved.ac/chon_5)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chon_5)](https://solved.ac/chon_5)</div>
