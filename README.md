@@ -3,7 +3,7 @@
 - 🌱 I'm currently learing <code>React</code>, <code>Typescript</code>, <code>Algorithm</code> ...
 - 📫 How to reach me: jhyooooooon@gmail.com
 - [![Blog](https://img.shields.io/static/v1?label=&logo=Blogger&logoColor=white&message=Blog&color=Green)](https://blog.naver.com/chon_5)
-  <br/><br/>
+  <br/>
 
 #### Project🔥
 
@@ -12,7 +12,6 @@
 - 📺 [오늘의 뉴스](https://github.com/JHYOOOOON/TodayNews)
 - 📚 [책 검색 페이지](https://github.com/JHYOOOOON/searchBook)
 - 🎥 [일일 박스오피스](https://github.com/JHYOOOOON/dailyBoxOffice)
-
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JHYOOOOON)](https://github.com/anuraghazra/github-readme-stats)
