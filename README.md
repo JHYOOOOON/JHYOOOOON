@@ -9,9 +9,9 @@
 
 - 🎲 [MATCH!](https://github.com/JHYOOOOON/MATCH)
 - ✨ [OTT MovieOn](https://github.com/kwonhyoju/OTT/tree/dev)
-- 📺 [오늘의 뉴스](https://github.com/JHYOOOOON/TodayNews)
-- 📚 [책 검색 페이지](https://github.com/JHYOOOOON/searchBook)
-- 🎥 [일일 박스오피스](https://github.com/JHYOOOOON/dailyBoxOffice)
+- 📺 [Today's News](https://github.com/JHYOOOOON/TodayNews)
+- 📚 [Searching books](https://github.com/JHYOOOOON/searchBook)
+- 🎥 [Daily Boxoffice](https://github.com/JHYOOOOON/dailyBoxOffice)
   <br/>
 
 <div display="flex">
