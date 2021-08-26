@@ -10,8 +10,7 @@
 -   ✨ [OTT MovieOn](https://github.com/kwonhyoju/OTT/tree/dev)
 -   📺 [Today's News](https://github.com/JHYOOOOON/TodayNews)
 -   🎬 [Boxoffice2021](https://github.com/JHYOOOOON/Boxoffice2021)
--   📚 [Searching books](https://github.com/JHYOOOOON/searchBook)
--   🎲 [MATCH!](https://github.com/JHYOOOOON/MATCH)
+-   📚 [SearchingBooks2021](https://github.com/JHYOOOOON/searchBook2021)
     <br/>
 
 <div display="flex">
