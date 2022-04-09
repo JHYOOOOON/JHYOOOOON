@@ -12,8 +12,4 @@
 -   📚 [SearchingBooks2021](https://github.com/JHYOOOOON/searchBook2021)
     <br/>
 
-<div display="flex">
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JHYOOOOON)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chon_5)](https://solved.ac/chon_5)</div>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chon_5)](https://solved.ac/chon_5)
