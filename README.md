@@ -4,7 +4,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chon_5)](https://solved.ac/chon_5)
 
-- 🌱 I'm currently learing <code>React</code>, <code>Typescript</code>, <code>Recoil</code> ...
+- 🌱 I'm currently learing <code>React</code>, <code>Typescript</code>, <code>Recoil</code> and <code>ThreeJS</code> ...
 - 😆 I'm interested in playing a game and taking a walk with friends!<br/>
 - 📫 How to reach me: jhyooooooon@gmail.com
 
@@ -21,5 +21,5 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-`Recoil`
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br/>
+and `Recoil`
