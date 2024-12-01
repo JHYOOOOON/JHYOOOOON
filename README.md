@@ -4,16 +4,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chon_5)](https://solved.ac/chon_5)
 
-- 🌱 I'm currently learing <code>React</code>, <code>Typescript</code>, <code>Recoil</code> ...
+- 🌱 I'm currently learing <code>React</code>, <code>Typescript</code> ...
 - 🥳 I'm interested in playing a game and having a coffee chat with coworker<br/>
 - 📫 How to reach me: jhyooooooon@gmail.com
-
-### Project
-
-- 🤹‍♀️ [WaBlog](https://github.com/JHYOOOOON/WaBlog)
-- 🎧 [Oneul](https://github.com/JHYOOOOON/Oneul)
-- 🪜 [Ladder](https://github.com/JHYOOOOON/ladder-game)
-- 🐳 [Algorithm](https://github.com/JHYOOOOON/Algorithm)
 
 ### Skill
 
@@ -21,5 +14,4 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)<br/>
-and `Recoil`
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
